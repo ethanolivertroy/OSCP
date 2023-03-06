@@ -4,3 +4,8 @@
 
 https://cloud.hacktricks.xyz/welcome/readme
 https://book.hacktricks.xyz/welcome/readme
+
+
+## TJ Null List
+- 
+https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#
